@@ -9,3 +9,4 @@
 
 Effective communication of research findings is a cornerstone of academic success, yet many researchers face challenges in structuring, articulating, and refining their presentations to meet high scholarly standards. Traditional feedback mechanisms, often reliant on peer or advisor reviews, can be subjective, inconsistent, and time-consuming, limiting the iterative improvement process. This project introduces an AI-powered research presentation evaluation tool that leverages Large Language Models (LLMs) and natural language processing (NLP) to provide structured, data-driven assessments of academic presentations.
 
+[Project presentation](https://github.com/yaarraa11/Evaluating-scientific-research-using-artificial-intelligence/blob/main/Document/presentation.pdf)
