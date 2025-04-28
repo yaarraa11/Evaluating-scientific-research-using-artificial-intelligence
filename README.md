@@ -13,4 +13,4 @@ Effective communication of research findings is a cornerstone of academic succes
 
  - ### [Project report](https://github.com/yaarraa11/Evaluating-scientific-research-using-artificial-intelligence/blob/main/Document/report.pdf)
 
- - ### [Project code .]([https://github.com/REHAB199/Saudi-Arabia-Weather-Deep-learning/blob/main/Documents/Saudi%20Arabia%20Weather%20Final%20Report.pdf](https://github.com/yaarraa11/Evaluating-scientific-research-using-artificial-intelligence/tree/main/code))
+ - ### [Project code .](https://github.com/yaarraa11/Evaluating-scientific-research-using-artificial-intelligence/tree/main/code)
